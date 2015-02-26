@@ -1,0 +1,6 @@
+@article{OrozcoGarPavKhaGao11Memob,
+title= {TIDeFlow: The Time Iterated Dependency Flow Execution Model},
+author = {Daniel Orozco and Elkin Garcia and Robert Pavel and Rishi Khan and Guang R. Gao },
+year = {August, 2011},
+journal = {CAPSL Technical Memo 107}
+}

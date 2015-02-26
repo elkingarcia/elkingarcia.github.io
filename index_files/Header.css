@@ -1,0 +1,97 @@
+﻿#Header {
+	display:	block;
+
+	position:	absolute;
+	top:		18px;
+	left:		238px;
+	width:		710px;
+
+	border:		2px solid #000000;
+
+	padding:	10px 40px 0px 10px;
+
+	color:		#000000;
+	background:	#FFFFFF;
+
+	font-family:	"Verdana MS", sans-serif;
+}
+
+/******************************************************************************/
+
+#Header A {
+	color:		#000000;
+	background:	#FFFFFF;
+	font-family:	"Verdana MS", sans-serif;
+}
+
+#Header A:visited {
+	color:		#000000; /* Before BBBB88 */
+	background:	#FFFFFF;
+	font-family:	"Verdana MS", sans-serif;
+}
+
+#Header A:hover {
+	color:		#2C4C6C; /* Before BBBB88 */
+	background:	#FFFFFF;
+	font-family:	"Verdana MS", sans-serif;
+}
+
+/******************************************************************************/
+
+#Header TD {
+	vertical-align:	top;
+}
+
+#Header TD.Info1 {
+	color:		#FFFFFF;
+	background:	#3b5998;
+	font-family:	"Verdana MS", sans-serif;
+	font-size:	180%;
+	font-weight:	bold;
+	padding-bottom:	30px;
+}
+
+#Header TD.Info2 {
+	color:		#FFFFFF;
+	background:	#8b9dc3;
+	font-family:	"Verdana MS", sans-serif;
+	font-size:	140%;
+	font-weight:	bold;
+	padding-bottom:	5px;
+}
+
+#Header TD.Info3 {
+	color:		#3D3D32;
+	background:	#FFFFFF;
+	font-family:	"Verdana MS", sans-serif;
+	font-weight:	bold;
+}
+
+#Header TD.Info3 A {
+	color:		#3D3D32;
+	background:	#FFFFFF;
+	font-family:	"Verdana MS", sans-serif;
+	font-weight:	bold;
+}
+
+#Header TD.Info3 A:visited {
+	color:		#3D3D32;
+	background:	#FFFFFF;
+	font-family:	"Verdana MS", sans-serif;
+	font-weight:	bold;
+}
+
+#Header TD.Info3 A:hover {
+	color:		#2C4C6C;
+	background:	#FFFFFF;
+	font-family:	"Verdana MS", sans-serif;
+	font-weight:	bold;
+}
+
+/******************************************************************************/
+
+#Header TD.VEmpty {
+	width:		20px;
+}
+
+/******************************************************************************/

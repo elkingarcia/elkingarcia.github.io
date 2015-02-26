@@ -1,0 +1,6 @@
+@article{OrozcoGarGao10Memo,
+title= {Locality Optimization of Stencil Applications using Data Dependency Graphs},
+author = {Daniel Orozco and Elkin Garcia and Guang R. Gao },
+year = {October, 2010},
+journal = {CAPSL Technical Memo 101}
+}

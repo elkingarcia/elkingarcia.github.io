@@ -1,0 +1,13 @@
+@inproceedings{GarciaOroKhaVenLivGao13,
+  author       = "Elkin Garcia and Daniel Orozco and Rishi Khan and Ioannis Venetis and Kelly Livingston and Guang Gao",
+  title        = "{A Dynamic Schema to increase performance in Many-core Architectures through Percolation operations}",
+  booktitle    = "Proceedings of the 2013 IEEE International Conference on High Performance Computing (HiPC 2013)",
+  series       = {},
+  volume       = {},
+  month        = {Dec.},
+  year         = {2013},
+  isbn         = {},
+  address      = {Bangalore, India},
+  pages        = {},
+  publisher    = {IEEE Computer Society},
+}

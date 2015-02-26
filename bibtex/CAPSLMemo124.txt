@@ -1,0 +1,6 @@
+@article{GarciaArtPavGao13Memo,
+title= {Optimizing the LU Factorization for Energy Efficiency on a Many-Core Architecture },
+author = {Elkin Garcia and Jaime Arteaga and Robert Pavel and Guang R. Gao },
+year = {July, 2013},
+journal = {CAPSL Technical Memo 124}
+}

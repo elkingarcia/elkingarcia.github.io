@@ -1,0 +1,6 @@
+@article{YanChaOroGarShiBudSarGao10Memo,
+title= {Synchronization for Dynamic Task Parallelism on Manycore Architectures},
+author = {Yonghong Yan and Sanjay Chatterjee and Daniel Orozco and Elkin Garcia and Jun Shirako and Zoran Budimlic and Vivek Sarkar and Guang R. Gao},
+year = {February, 2010},
+journal = {CAPSL Technical Memo 094}
+}

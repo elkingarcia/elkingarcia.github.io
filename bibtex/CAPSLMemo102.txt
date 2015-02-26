@@ -1,0 +1,6 @@
+@article{GarciaOroGao10Memo,
+title= {Energy efficient tiling on a Many-Core Architecture},
+author = { Elkin Garcia and Daniel Orozco and Guang R. Gao },
+year = {October, 2010},
+journal = {CAPSL Technical Memo 102}
+}

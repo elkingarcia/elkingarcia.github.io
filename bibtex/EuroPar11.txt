@@ -1,0 +1,13 @@
+@inproceedings{YanChaOroGarBudPavGaoSar11,
+  author       = "Yonghong Yan and Sanjay Chatterjee and Daniel Orozco and Elkin Garcia and Zoran Budimlic and Robert Pavel and Guang Gao and Vivek Sarkar",
+  title        = "{Hardware and Software Tradeoffs for Task Synchronization Using Phasers on Manycore Architectures}",
+  booktitle    = "Proceedings of the 17th International European Conference on Parallel Computing (Euro-Par 2011), Part II",
+  series       = {Lecture Notes in Computer Science},
+  volume       = {6853},
+  month        = {Aug.},
+  year         = {2011},
+  isbn         = {978-3-642-23396-8},
+  address      = {Bordeaux, France},
+  pages        = {112-123},
+  publisher    = {Springer-Verlag},
+}

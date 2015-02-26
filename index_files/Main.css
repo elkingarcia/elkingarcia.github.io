@@ -1,0 +1,176 @@
+﻿#Main {
+	display:		block;
+
+	position:		relative;
+	left:			-10px;		/* padding of Header.css */
+	width:			710px;
+
+	padding:		10px 40px 10px 10px;
+
+	color:			#000000;
+	background:		#FFFFFF;
+
+	font-family:		"Verdana MS", sans-serif;
+}
+
+/******************************************************************************/
+
+#Main A {
+	color:		#000000;
+	background:	#FFFFFF;
+	font-family:	"Verdana MS", sans-serif;
+}
+
+#Header A:visited {
+	color:		#000000; /* Before BBBB88 */
+	background:	#FFFFFF;
+	font-family:	"Verdana MS", sans-serif;
+}
+
+#Header A:hover {
+	color:		#2C4C6C; /* Before BBBB88 */
+	background:	#FFFFFF;
+	font-family:	"Verdana MS", sans-serif;
+}
+
+/******************************************************************************/
+
+#Main UL.SmallFont {
+	font-family:		"Verdana MS", sans-serif;
+	font-size:		90%;
+	text-align:		justify;
+	padding-left:		35px;
+	margin-left:		0px;
+}
+
+/******************************************************************************/
+
+#Main TH {
+	border-color:		#000000;
+	border-width:		1px;
+	border-style:		solid;
+	
+	color:			#000000;
+	background:		#FFFFFF;
+}
+
+/******************************************************************************/
+
+#Main TR.HEmpty {
+	height:			5px;
+}
+
+#Main TR.ConferenceOpen {
+	background:		#CCFF99;
+}
+
+#Main TR.ConferenceOpen:hover {
+	background:		#CCDCEC;
+	color:			#2C4C6C;
+}
+
+#Main TR.ConferenceClosed {
+	background:		#FF9080;
+}
+
+#Main TR.ConferenceClosed:hover {
+	background:		#CCDCEC;
+	color:			#2C4C6C;
+}
+
+#Main TR.ConferenceUnknown {
+	background:		#FFFFFF;
+}
+
+#Main TR.ConferenceUnknown:hover {
+	background:		#CCDCEC;
+	color:			#2C4C6C;
+}
+
+/******************************************************************************/
+#Main H2 
+{
+	background:		#CCDCEC;
+	color:			#2C4C6C;
+}
+
+#Main TD.VEmpty {
+	width:			20px;
+}
+
+#Main TD.ConferenceName {
+	text-align:		left;
+	width:			460px;
+	padding: 		3px;
+	border-color:		#000000;
+	border-width:		1px;
+	border-style:		solid;
+}
+
+#Main TD.ConferenceName A {
+	color:			#000000;
+	text-decoration:	none;
+	background-color:	transparent;
+}
+
+#Main TD.ConferenceName A:visited {
+	color:			#000000;
+	text-decoration:	none;
+	background-color:	transparent;
+}
+
+#Main TD.ConferenceName A:hover {
+	color:			#2C4C6C;
+	background-color:	transparent;
+	text-decoration:	underline;
+}
+
+#Main TD.ConferenceDate {
+	width:			70px;
+	padding-top:		3px;
+	padding-bottom:		3px;
+	border-color:		#000000;
+	border-width:		1px;
+	border-style:		solid;
+}
+
+#Main TD.LegendOpen {
+	width:			50px;
+	background:		#CCFF99;
+	border-color:		#000000;
+	border-width:		1px;
+	border-style:		solid;
+}
+
+#Main TD.LegendClosed {
+	width:			50px;
+	background:		#FF8070;
+	border-color:		#000000;
+	border-width:		1px;
+	border-style:		solid;
+}
+
+#Main TD.LegendUnknown {
+	width:			50px;
+	background:		#FFFFFF;
+	border-color:		#000000;
+	border-width:		1px;
+	border-style:		solid;
+}
+
+#Main TD.LegendDescription {
+	width:			200px;
+}
+
+/******************************************************************************/
+
+#Main P.Centered {
+	text-align:		center;
+	margin-top:		0px;
+	margin-bottom:		0px;
+	padding:		0px;
+}
+
+#Main P {
+	text-align:		justify;
+}

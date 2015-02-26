@@ -1,0 +1,11 @@
+@inproceedings{MahechaLozGar08,
+  author       = "Diana Mahecha and Fernando Lozano and Elkin Garcia",
+  title        = "{Computer Mouse Control using EOG signals and Boosting Algorithms}",
+  booktitle    = "Proceedings of the XIII Simposio de Tratamiento de Señales Imágenes y Vision Artificial (STSIVA 2008)",
+  volume       = {II},
+  month        = {Sep.},
+  year         = {2008},
+  isbn         = {978-958-8477-00-8},
+  address      = {Bucaramanga, Colombia},
+  pages        = {57-60},
+}

@@ -1,0 +1,6 @@
+@article{GaudiotGaoGarJanKolWei13Memo,
+title= {SMART: a Stream-based Multi-core Architecture & Runtime Technology},
+author = {Jean-Luc Gaudiot and Guang R. Gao and Elkin Garcia and Ganghee Jang and Souad Koliai and Haitao Wei},
+year = {February, 2013},
+journal = {CAPSL Technical Memo 122}
+}

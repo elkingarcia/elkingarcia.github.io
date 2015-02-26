@@ -1,0 +1,11 @@
+@inproceedings{RangelLozGar05,
+  author       = "Pedro Rangel and Fernando Lozano and Elkin Garcia",
+  title        = "{Boosting of Support Vector Machines with application to editing}",
+  booktitle    = "Proceedings of 4th  International Conference of Machine Learning and Applications (ICMLA'05)",
+  month        = {Dec.},
+  year         = {2005},
+  isbn         = {0-7695-2495-8},
+  address      = {Los Angeles, CA},
+  pages        = {374-379},
+  publisher    = {IEEE Computer Society},
+}

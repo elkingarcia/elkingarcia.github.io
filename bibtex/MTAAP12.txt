@@ -1,0 +1,12 @@
+@inproceedings{GarciaOroPavGao12,
+  author       = "Elkin Garcia and Daniel Orozco and Robert Pavel and Guang R. Gao",
+  title        = "{A discussion in favor of Dynamic Scheduling for regular applications in Many-core Architectures}",
+  booktitle    = "Proceedings of 2012 Workshop on Multithreaded Architectures and Applications (MTAAP 2012); 
+        26th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2012)",
+  month        = {May},
+  year         = {2012},
+  isbn         = {978-0-7695-4676-6},
+  address      = {Shanghai, China},
+  pages        = {1591-1600},
+  publisher    = {ACM},
+}

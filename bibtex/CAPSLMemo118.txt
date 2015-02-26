@@ -1,0 +1,6 @@
+@article{GarciaPavOroGao12Memo,
+title= {Performance Modeling of Fine Grain Task Execution Models with Resource Constraints on Many-core Architectures },
+author = {Elkin Garcia and Robert Pavel and Daniel Orozco and Guang R. Gao },
+year = {June, 2012},
+journal = {CAPSL Technical Memo 118}
+}

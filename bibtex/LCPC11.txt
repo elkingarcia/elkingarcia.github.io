@@ -1,0 +1,13 @@
+@inproceedings{OrozcoGarPavKhaGao11,
+  author       = "Daniel Orozco and Elkin Garcia and Robert Pavel and Rishi Khan and Guang Gao",
+  title        = "{Polytasks: A Compressed Task Representation for HPC Runtimes}",
+  booktitle    = "Proceedings of the 24th International Workshop on Languages and Compilers for Parallel Computing (LCPC 2011)",
+  series       = {Lecture Notes in Computer Science},
+  volume       = {7146},
+  month        = {Sep.},
+  year         = {2011},
+  isbn         = {978-3-642-36035-0},
+  address      = {Fort Collins, CO, USA},
+  pages        = {268-282},
+  publisher    = {Springer-Verlag},
+}

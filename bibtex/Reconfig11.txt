@@ -1,0 +1,11 @@
+@inproceedings{OliverShaChaChiGar11,
+  author       = "Neal Oliver and Rahul R. Sharma and Stephen Chang and Bhushan Chitlur and Elkin Garcia and Joseph Grecco and Aaron Grier and Nelson Ijih and Yaping Liu and Pratik Marolia and Henry Mitchel and Suchit Subhaschandra and Arthur Sheiman and Tim Whisonant and Prabhat Gupta",
+  title        = "{A Reconfigurable Computing System Based on a Cache-Coherent Fabric}",
+  booktitle    = "Proceedings of 2011 International Conference on ReConFigurable Computing and FPGAs (ReConFig 2011)",
+  month        = {November},
+  year         = {2011},
+  isbn         = {978-0-7695-4551-6},
+  address      = {Canc\'un, Mexico},
+  pages        = {80-85},
+  publisher    = {IEEE Computer Society},
+}

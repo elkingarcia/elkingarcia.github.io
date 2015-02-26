@@ -1,0 +1,6 @@
+@article{ArteagaGarZucGao14Memo,
+title= {Locality-Driven Scheduling of Tasks for Data-Dependent Multithreading },
+author = {Jaime Arteaga and Elkin Garcia and Stephane Zuckerman and Guang R. Gao },
+year = {January, 2014},
+journal = {CAPSL Technical Memo 125}
+}

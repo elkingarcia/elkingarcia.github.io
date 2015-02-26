@@ -1,0 +1,9 @@
+@inproceedings{GarciaRanLoz06,
+  author       = "Elkin Garcia and Pedro Rangel and Fernando Lozano",
+  title        = "{Adaptive Support Vector Machines for time series prediction}",
+  booktitle    = "Proceedings of XI Simposio de Tratamiento de Se\~{n}ales, Imagenes y Vision Artificial (STSIVA 2006)",
+  month        = {Sep.},
+  year         = {2006},
+  isbn         = {978-958-683-934-1},
+  address      = {Bogot\'a, Colombia},
+}

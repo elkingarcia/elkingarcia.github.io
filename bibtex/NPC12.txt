@@ -1,0 +1,13 @@
+@inproceedings{OrozcoGarPavAyaWanGao12,
+  author       = "Daniel Orozco and Elkin Garcia and Robert Pavel and Orlando Ayala and Liang-Ping Wang and Guang R. Gao",
+  title        = "{Demystifying Performance Predictions of Distributed FFT3D Implementations}",
+  booktitle    = "Proceedings of the 9th IFIP International Conference on Network and Parallel Computing (NPC 2012)",
+  series       = {Lecture Notes in Computer Science},
+  volume       = {7513},
+  month        = {Sep.},
+  year         = {2012},
+  isbn         = {978-3-642-35605-6},
+  address      = {Gwangju, Korea},
+  pages        = {196-207},
+  publisher    = {Springer Berlin Heidelberg},
+}

@@ -1,0 +1,9 @@
+@inproceedings{Garcia06,
+  author       = "Elkin Garcia",
+  title        = "{Adaboost for phonemes Classification}",
+  booktitle    = "Proceedings of the IEEE Colombian Workshop on Circuits and Systems (CWCAS'06)",
+  month        = {Oct.},
+  year         = {2006},
+  isbn         = {978-958-695-259-0},
+  address      = {Cartagena, Colombia},
+}

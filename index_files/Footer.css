@@ -1,0 +1,21 @@
+﻿#Footer {
+	display:	block;
+
+	position:	relative;
+	left:		-10px;		/* padding of Header.css */
+	width:		710px;
+
+	padding:	10px 40px 10px 10px;
+
+	color:		#000000;
+	background:	#FFFFFF;
+
+	font-family:	"Verdana MS", sans-serif;
+}
+
+/******************************************************************************/
+
+#Footer TABLE.Footer {
+	width:		100%;
+	font-size:	90%;
+}

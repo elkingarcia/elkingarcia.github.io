@@ -1,0 +1,6 @@
+@article{GaudiotGaoGarJanKol12Memo,
+title= {Toward Exascale Systems: from Applications to Architectures},
+author = {Jean-Luc Gaudiot and Guang R. Gao and Elkin Garcia and Ganghee Jang and Souad Koliai},
+year = {October, 2012},
+journal = {CAPSL Technical Memo 121}
+}

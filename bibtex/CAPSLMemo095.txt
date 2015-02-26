@@ -1,0 +1,6 @@
+@article{GarciaVenKhaGao10Memo,
+title= {Optimized Dense Matrix Multiplication on a Many-Core Architecture },
+author = {Elkin Garcia and Ioannis E. Venetis and Rishi Khan and Guang R. Gao },
+year = {February, 2010},
+journal = {CAPSL Technical Memo 095}
+}

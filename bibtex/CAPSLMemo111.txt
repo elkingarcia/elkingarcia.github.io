@@ -1,0 +1,6 @@
+@article{GarciaOroPavGao12Memo,
+title= {Toward Efficient Fine-grained Dynamic Scheduling on Many-Core Architectures },
+author = {Elkin Garcia and Daniel Orozco and Robert Pavel and Guang R. Gao },
+year = {February, 2012},
+journal = {CAPSL Technical Memo 111}
+}

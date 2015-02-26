@@ -1,0 +1,30 @@
+﻿#Menu {
+	display:	block;
+
+	position:	absolute;
+	top:		18px;
+	left:		18px;
+	width:		180px;
+	border:		2px solid #000000;
+	padding:	10px;
+
+	color:		#E0E0E0;
+	background:	#3b5998;
+
+	font-family:	"Verdana MS", sans-serif;
+}
+
+/******************************************************************************/
+
+#Menu A {
+	color:		#E0E0E0;
+	background:	#3b5998;
+	font-family:	"Verdana MS", sans-serif;
+	font-weight:	bold;
+}
+
+/******************************************************************************/
+
+#Menu H2 {
+	margin:		20px 0px 20px 0px;
+}

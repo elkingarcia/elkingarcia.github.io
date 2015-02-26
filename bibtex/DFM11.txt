@@ -1,0 +1,11 @@
+@inproceedings{OrozcoGarPavGao11,
+  author       = "Daniel Orozco and Elkin Garcia and  Robert Pavel and Guang Gao",
+  title        = "{TIDeFlow: The Time Iterated Dependency Flow Execution Model}",
+  booktitle    = "Proceedings of Workshop on Data-Flow Execution Models for Extreme Scale Computing (DFM 2011); 20th International Conference on Parallel Architectures and Compilation Techniques (PACT 2011)",
+  month        = {Oct.},
+  year         = {2011},
+  isbn         = {978-0-7695-4646-9},
+  address      = {Galveston Island, TX, USA},
+  pages        = {1-9},
+  publisher    = {IEEE Computer Society},
+}

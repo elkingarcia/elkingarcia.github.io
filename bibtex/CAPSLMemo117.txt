@@ -1,0 +1,6 @@
+@article{OrozcoGarPavAyaWanGao12Memo,
+title= {Demystifying Performance Predictions of Distributed FFT3D Implementations },
+author = {Daniel Orozco and Elkin Garcia and Robert Pavel and Orlando Ayala and Lian-Ping Wang and Guang R. Gao },
+year = {June, 2012},
+journal = {CAPSL Technical Memo 117}
+}

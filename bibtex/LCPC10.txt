@@ -1,0 +1,14 @@
+@inproceedings{OrozcoGarGao10,
+  author       = "Daniel Orozco and Elkin Garcia and Guang Gao",
+  title        = "{Locality Optimization of Stencil Applications using Data Dependency Graphs}",
+  booktitle    = "Proceedings of the 23rd International Workshop on Languages and Compilers for 
+		Parallel Computing (LCPC2010)",
+  series       = {Lecture Notes in Computer Science},
+  volume       = {6548},
+  month        = {Oct.},
+  year         = {2010},
+  isbn         = {978-3-642-19594-5},
+  address      = {Houston, TX, USA},
+  pages        = {77-91},
+  publisher    = {Springer-Verlag},
+}

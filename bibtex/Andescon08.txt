@@ -1,0 +1,10 @@
+@inproceedings{CamejoGarBus08,
+  author       = "Daniel Camejo and Elkin Garcia and Roberto Bustamante",
+  title        = "{Transmitter Beamformer Design and Implementation on FPGA}",
+  booktitle    = "Proceedings of the IV International Conference of the IEEE Andean Region (Andescon 2008)",
+  month        = {Oct.},
+  year         = {2008},
+  isbn         = {978-603-45345-0-6},
+  address      = {Cuzco, Per\'u},
+  publisher    = {IEEE},
+}

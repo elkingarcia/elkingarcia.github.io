@@ -1,0 +1,8 @@
+@inproceedings{GarciaRan05,
+  author       = "Elkin Garcia and Pedro Rangel",
+  title        = "{Time Series prediction with Support Vector Machines}",
+  booktitle    = "Proceedings of the XI Escuela Latinoamericana de Verano en Investigación de Operaciones (ELAVIO)",
+  month        = {Jul.},
+  year         = {2005},
+  address      = {Villa de Leyva, Colombia}
+}

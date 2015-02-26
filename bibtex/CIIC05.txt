@@ -1,0 +1,9 @@
+@inproceedings{GarciaManPac05,
+  author       = "Elkin Garcia and German Mancera and Jorge Pacheco",
+  title        = "{Music Classifier by Genre with Neural Networks}",
+  booktitle    = "Proceedings of the Congreso Internacional de Inteligencia Computacional (CIIC-2005)",
+  month        = {Aug.},
+  year         = {2005},
+  address      = {Monter\'ia, Colombia},
+  pages        = {284-291},
+}

@@ -1,0 +1,13 @@
+@inproceedings{GarciaVenKhaGao10,
+  author       = "Elkin Garcia and Ioannis E. Venetis and Rishi Khan and Guang Gao",
+  title        = "{Optimized Dense Matrix Multiplication on a Many-Core Architecture}",
+  booktitle    = "Proceedings of the 16th International European Conference on Parallel Computing (Euro-Par 2010), Part II",
+  series       = {Lecture Notes in Computer Science},
+  volume       = {6272},
+  month        = {Aug.},
+  year         = {2010},
+  isbn         = {978-3-642-15290-0},
+  address      = {Ischia, Italy},
+  pages        = {316-327},
+  publisher    = {Springer-Verlag},
+}

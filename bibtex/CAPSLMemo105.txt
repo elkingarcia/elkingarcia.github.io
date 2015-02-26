@@ -1,0 +1,6 @@
+@article{OrozcoGarPavKhaGao11Memo,
+title= {Polytasks: A Compressed Task Representation for HPC Runtimes},
+author = {Daniel Orozco and Elkin Garcia and Robert Pavel and Rishi Khan and Guang R. Gao },
+year = {June, 2011},
+journal = {CAPSL Technical Memo 105}
+}

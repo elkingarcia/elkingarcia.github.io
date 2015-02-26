@@ -1,0 +1,6 @@
+@article{OrozcoGarKhaLivGao11Memo,
+title= {High Throughput Queue Algorithms},
+author = {Daniel Orozco and Elkin Garcia and Rishi Khan and Kelly Livingston and Guang R. Gao },
+year = {January, 2011},
+journal = {CAPSL Technical Memo 103}
+}

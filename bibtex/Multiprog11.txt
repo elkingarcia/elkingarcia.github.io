@@ -1,0 +1,9 @@
+@inproceedings{GarciaOroGao11,
+  author       = "Elkin Garcia and Daniel Orozco and Guang Gao",
+  title        = "{Energy efficient tiling on a Many-Core Architecture}",
+  booktitle    = "Proceedings of 4th Workshop on Programmability Issues for Heterogeneous Multicores (MULTIPROG-2011); 6th International Conference on High-Performance and Embedded Architectures and Compilers (HiPEAC)",
+  month        = {Jan.},
+  year         = {2011},
+  address      = {Heraklion, Greece},
+  pages        = {53-66},
+}

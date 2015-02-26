@@ -1,0 +1,6 @@
+@article{PavelGarOroGao12Memo,
+title= {Toward a Highly Parallel Framework for Discrete-Event Simulation },
+author = {Robert Pavel and Elkin Garcia and Daniel Orozco and Guang R. Gao },
+year = {April, 2012},
+journal = {CAPSL Technical Memo 113}
+}

@@ -1,0 +1,13 @@
+@article{GarciaLoz06,
+  author       = {Elkin Garcia and Fernando Lozano},
+  title        = {Boosting Support Vector Machines},
+  journal      = {Revista de Ingenier\'ia Universidad de los Andes},
+  issue_date   = {Nov. 2006},
+  number       = {24},
+  month	       = {Nov.},
+  year         = {2006},
+  issn         = {0121-4993},
+  pages        = {62-70},
+  numpages     = {9},
+  address      = {Bogot\'a, Colombia},
+}

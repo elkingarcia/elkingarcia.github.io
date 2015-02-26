@@ -1,0 +1,6 @@
+@article{GarciaKhaLivVenGao10Memo,
+title= {Dynamic Percolation - Mapping Dense Matrix Multiplication on a Many-Core Architecture},
+author = {Elkin Garcia and Rishi Khan and Kelly Livingston and Ioannis E. Venetis and  Guang R. Gao },
+year = {June, 2010},
+journal = {CAPSL Technical Memo 098}
+}
